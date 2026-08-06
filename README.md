@@ -1,4 +1,4 @@
-# pyRevit Millwork Resizer
+# pyRevit ReCabinet
 
 This pyRevit extension provides a "magic button" to evenly resize and distribute selected millwork over a chosen distance. It is designed to replace the clunky, time-consuming process of drawing construction lines, constraining them to EQ dimensions, and manually aligning the edges of millwork families. 
 
